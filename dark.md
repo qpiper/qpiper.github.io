@@ -16,7 +16,7 @@
     <meta property="og:url" content="https://qpiper.github.io/dark"/>
     <meta property="twitter:card" content="summary_large_image"/>
     <link rel="canonical" href="https://qpiperdark.carrd.co"/>
-    <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:300,300italic,400,400italic" rel="stylesheet" type="text/css"/>
+    <link href="https://fonts.googleapis.com/css?family=Avenir+Next+Condensed:300,300italic,400,400italic" rel="stylesheet" type="text/css"/>
     <style>
     html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
         margin: 0;
