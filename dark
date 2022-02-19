@@ -98,7 +98,7 @@
         transform: scale(1);
         width: 100vw;
         z-index: 0;
-        background-image: url('data:image/svg+xml;charset=utf8,%3Csvg%20viewBox%3D%220%200%20512%20512%22%20width%3D%22512%22%20height%3D%22512%22%20version%3D%221.1%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cfilter%20id%3D%22noise%22%3E%3CfeTurbulence%20type%3D%22fractalNoise%22%20baseFrequency%3D%220.875%22%20result%3D%22noise%22%20%2F%3E%3CfeColorMatrix%20type%3D%22matrix%22%20values%3D%220%200%200%200%200%200%200%200%200%200%200%200%200%200%200%200%200%200%200%200%22%20%2F%3E%3C%2Ffilter%3E%3Crect%20filter%3D%22url%28%23noise%29%22%20x%3D%220%22%20y%3D%220%22%20width%3D%22512%22%20height%3D%22512%22%20fill%3D%22transparent%22%20opacity%3D%221%22%20%2F%3E%3C%2Fsvg%3E'), linear-gradient(45deg, rgba(97, 69, 69, 0.322) 0%, rgba(35, 65, 99, 0.8) 100%), url('assets/images/bg.png?v=53a1dacc');
+        background-image: url('data:image/svg+xml;charset=utf8,%3Csvg%20viewBox%3D%220%200%20512%20512%22%20width%3D%22512%22%20height%3D%22512%22%20version%3D%221.1%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cfilter%20id%3D%22noise%22%3E%3CfeTurbulence%20type%3D%22fractalNoise%22%20baseFrequency%3D%220.875%22%20result%3D%22noise%22%20%2F%3E%3CfeColorMatrix%20type%3D%22matrix%22%20values%3D%220%200%200%200%200%200%200%200%200%200%200%200%200%200%200%200%200%200%200%200%22%20%2F%3E%3C%2Ffilter%3E%3Crect%20filter%3D%22url%28%23noise%29%22%20x%3D%220%22%20y%3D%220%22%20width%3D%22512%22%20height%3D%22512%22%20fill%3D%22transparent%22%20opacity%3D%221%22%20%2F%3E%3C%2Fsvg%3E'), linear-gradient(45deg, rgba(97, 69, 69, 0.322) 0%, rgba(35, 65, 99, 0.8) 100%), url('https://qpiperdark.carrd.co/assets/images/bg.png?v=53a1dacc');
         background-size: 512px, cover, cover;
         background-position: center, 0% 0%, center;
         background-repeat: repeat, repeat, no-repeat;
@@ -1916,14 +1916,15 @@
                                 <div>
                                     <div id="image01" class="image">
                                         <a href="https://twitter.com/nene_hanko/status/1120278573372231680" class="frame deferred">
-                                            <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHg9IjAiIHk9IjAiIHZpZXdCb3g9IjAgMCA0ODEgNDgxIiB3aWR0aD0iNDgxIiBoZWlnaHQ9IjQ4MSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI%2BPHJlY3QgZmlsbD0idHJhbnNwYXJlbnQiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiLz48L3N2Zz4%3D" data-src="assets/images/image01.gif?v=53a1dacc" alt=""/>
+                                            <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHg9IjAiIHk9IjAiIHZpZXdCb3g9IjAgMCA0ODEgNDgxIiB3aWR0aD0iNDgxIiBoZWlnaHQ9IjQ4MSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI%2BPHJlY3QgZmlsbD0idHJhbnNwYXJlbnQiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiLz48L3N2Zz4%3D" data-src="
+																						s/images/image01.gif?v=53a1dacc" alt=""/>
                                         </a>
                                     </div>
                                 </div>
                                 <div>
                                     <div id="image02" class="image">
                                         <span class="frame">
-                                            <img src="assets/images/image02.png?v=53a1dacc" alt=""/>
+                                            <img src="https://qpiperdark.carrd.co/assets/images/image02.png?v=53a1dacc" alt=""/>
                                         </span>
                                     </div>
                                     <hr id="divider03">
@@ -2017,7 +2018,7 @@
                                 <div>
                                     <div id="image03" class="image">
                                         <a href="https://qpiper.carrd.co" class="frame">
-                                            <img src="assets/images/image03.png?v=53a1dacc" alt=""/>
+                                            <img src="https://qpiperdark.carrd.co/assets/images/image03.png?v=53a1dacc" alt=""/>
                                         </a>
                                     </div>
                                 </div>
@@ -2089,7 +2090,7 @@
                                 <div>
                                     <div id="image05" class="style2 image">
                                         <a href="https://qpiper.carrd.co/#interests" class="frame">
-                                            <img src="assets/images/image05.png?v=53a1dacc" alt=""/>
+                                            <img src="https://qpiperdark.carrd.co/assets/images/image05.png?v=53a1dacc" alt=""/>
                                         </a>
                                     </div>
                                 </div>
@@ -2150,7 +2151,7 @@
                                 <div>
                                     <div id="image06" class="style2 image">
                                         <a href="https://qpiper.carrd.co/#music" class="frame">
-                                            <img src="assets/images/image06.png?v=53a1dacc" alt=""/>
+                                            <img src="https://qpiperdark.carrd.co/assets/images/image06.png?v=53a1dacc" alt=""/>
                                         </a>
                                     </div>
                                 </div>
@@ -2165,7 +2166,7 @@
                     </h2>
                     <div id="image04" class="style1 image">
                         <span class="frame">
-                            <img src="assets/images/image04.png?v=53a1dacc" alt=""/>
+                            <img src="https://qpiperdark.carrd.co/assets/images/image04.png?v=53a1dacc" alt=""/>
                         </span>
                     </div>
                     <hr id="divider01">
@@ -2220,7 +2221,7 @@
                                 <div>
                                     <div id="image07" class="style2 image">
                                         <a href="https://qpiper.carrd.co/#infodump" class="frame">
-                                            <img src="assets/images/image07.png?v=53a1dacc" alt=""/>
+                                            <img src="https://qpiperdark.carrd.co/assets/images/image07.png?v=53a1dacc" alt=""/>
                                         </a>
                                     </div>
                                 </div>
