@@ -1,16 +1,6 @@
 ---
 Dark mode
 ---
----
-
-
-
-
-
-
-
-
-
 <!DOCTYPE HTML>
 <html lang="en">
 <head>
@@ -26,7 +16,7 @@ Dark mode
     <meta property="og:image:type" content="image/jpeg"/>
     <meta property="og:image:width" content="1280"/>
     <meta property="og:image:height" content="800"/>
-    <meta property="og:url" content="https://qpiperdark.carrd.co"/>
+    <meta property="og:url" content="https://qpiper.github.io/dark"/>
     <meta property="twitter:card" content="summary_large_image"/>
     <link rel="canonical" href="https://qpiperdark.carrd.co"/>
     <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:300,300italic,400,400italic" rel="stylesheet" type="text/css"/>
