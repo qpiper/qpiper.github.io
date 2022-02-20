@@ -1,6 +1,6 @@
----
-Dark mode
----
+<div id="dark">
+  <h1>{{ page.title }}</h1>
+</div>
 <!DOCTYPE HTML>
 <html lang="en">
 <head>
