@@ -1,3 +1,6 @@
+---
+title : dark mode
+--- 
 <div id="dark">
   <h1> dark mode </h1>
 </div>
