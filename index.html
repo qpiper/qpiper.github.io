@@ -2968,14 +2968,6 @@
                             setTimeout(function() {
                                 r.style.opacity = 1;
                             }, 100);
-                        } else {
-                            document.styleSheets[0].addRule('body::before', 'content: none !important;');
-                            $body.style.backgroundImage = r.style.backgroundImage.replace('url("/images/', 'url("qpiper.carrd.co/assets/images/');
-                            $body.style.backgroundPosition = r.style.backgroundPosition;
-                            $body.style.backgroundRepeat = r.style.backgroundRepeat;
-                            $body.style.backgroundColor = r.style.backgroundColor;
-                            $body.style.backgroundAttachment = 'fixed';
-                            $body.style.backgroundSize = r.style.backgroundSize;
                         }
                     }
                 })();
