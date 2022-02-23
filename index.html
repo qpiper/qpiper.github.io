@@ -2366,7 +2366,7 @@
                         <div class="wrapper">
                             <div class="inner">
                                 <div>
-                                    <div id="image01" class="image"><a href="https://twitter.com/nene_hanko/status/1120278573372231680" class="frame deferred"><img src="https://github.com/qpiper/qpiper.github.io/blob/main/%20appl%20cropped%20max.gif?raw=true"/></a></div>
+                                    <div id="image01" class="image"><a href="https://twitter.com/nene_hanko/status/1120278573372231680" class="frame deferred"><img src="https://github.com/qpiper/qpiper.github.io/blob/main/appl%20cropped%20max%20transparent.gif"/></a></div>
                                 </div>
                                 <div>
                                     <div id="image02" class="image"><span class="frame"><img src="https://qpiper.carrd.co/assets/images/image02.png?v=5be9f136" /></span></div>
@@ -2968,7 +2968,15 @@
                             setTimeout(function() {
                                 r.style.opacity = 1;
                             }, 100);
-                        }
+                                                } else {
+                            document.styleSheets[0].addRule('body::before', 'content: none !important;');
+                            $body.style.backgroundImage = r.style.backgroundImage.replace('url("/images/', 'url("qpiper.carrd.co/assets/images/');
+                            $body.style.backgroundPosition = r.style.backgroundPosition;
+                            $body.style.backgroundRepeat = r.style.backgroundRepeat;
+                            $body.style.backgroundColor = r.style.backgroundColor;
+                            $body.style.backgroundAttachment = 'fixed';
+                            $body.style.backgroundSize = r.style.backgroundSize;
+							}
                     }
                 })();
                 (function() {
