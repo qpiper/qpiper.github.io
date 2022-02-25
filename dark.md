@@ -3,7 +3,7 @@ title : dark mode
 --- 
 <div id="dark">
   <h1> dark mode </h1>
-</div>
+</div></p>
 <!DOCTYPE HTML>
 <html lang="en">
 
