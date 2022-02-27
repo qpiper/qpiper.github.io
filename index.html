@@ -1388,8 +1388,11 @@
 	{ fill: #FF8080 !important ; 
 	  color: #FF8080 !important; }
 	    
-	#icons01 a:hover
-	    { img: url("flag of vienna.png"); } 
+	#icons01 .img-hover  
+	    { display: none; }
+	    
+	#icons01 a:hover .img-hover
+	    { display: inline; } 
 
         #icons02 {
             font-size: 1.5em;
@@ -2399,7 +2402,7 @@
                                                     <use xlink:href="#icon-93f"></use>
                                                 </svg><span class="label">Discord</span></a></li>
 					<li><a class="n04" href="">
-						<img src="https://qpiper.carrd.co/assets/images/image03.png?v=32ec5e73"</img> </a></li>
+						<img src="https://qpiper.carrd.co/assets/images/image03.png?v=32ec5e73"</img><img class="img-hover" src="https://qpiper.carrd.co/assets/images/image03.png?v=32ec5e73"</img>  </a></li>
                                     </ul>
                                 </div>
                             </div>
